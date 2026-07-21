@@ -14,7 +14,8 @@ LinguaLens is a multilingual educational ambiguity atlas for university linguist
 
 ## Live link
 
-The public GitHub Pages link will be added here after publication.
+https://anastasia-volyando.github.io/LinguaLens/
+
 
 ## How to use it
 
